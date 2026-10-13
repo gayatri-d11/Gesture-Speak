@@ -129,6 +129,8 @@ Webcam → MediaPipe Hand Landmarks (63 features)
 - Mobile deployment with TensorFlow Lite
 
 ---
+## Watch Demo here -->
+https://lnkd.in/p/dDq7U6Rz
 
 ## License
 MIT License — free to use, modify, and distribute.
